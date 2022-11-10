@@ -1,0 +1,23 @@
+.
+header{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+div ul li{
+	display:inline;
+	padding:50px;
+}
+.navigation__link{
+	text-decoration:none;
+	color:black;
+} 
+
+}
+.alert {
+	display:flex;
+}
+div b{
+	font-size	
+	
